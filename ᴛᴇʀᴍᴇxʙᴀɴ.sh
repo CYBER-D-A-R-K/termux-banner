@@ -9,7 +9,7 @@ chmod +x *
 clear
 cd $HOME
 white='\e[1;37m'
-green='\e[0;32m'
+green="\033[32m"
 blue='\e[1;34m'
 red='\e[1;31m'
 yellow='\e[1;33m'
