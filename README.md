@@ -10,3 +10,11 @@
 <li>cd termux-banner </li> <!-- cyber dark -->
 <hr>
 <li>bash ᴛᴇʀᴍᴇxʙᴀɴ.sh </li> <!-- cyber dark -->
+THANKS TO :
+
+<li><a href="https://github.com/F1d41">F1d41</a></li>
+<li><a href="https://github.com/PHYSCOSPY">PHYSCOSPY</a></li>
+
+Channel :
+
+<a href="https://youtube.com/channel/UCKZ96oQF2l_2csD4rDtwY-g">🚫 CYBER DARK YT</a>
