@@ -1,7 +1,8 @@
 termux-setup-storage -y
 pkg install neofetch  -y
+pkg install figlet -y
+pkg install figlet
 pkg install pv -y
-cd /data/data/com.termux/files/usr/share/figlet
 git clone https://github.com/CodeMyHub/my-banner.oi
 cd my-banner.oi
 chmod +x *
